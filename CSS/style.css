@@ -1,0 +1,147 @@
+/*=================================================General CSS===========================
+Deafult Values
+
+Font Family: Roborto
+
+DEAFULT COLORS - HEX values 
+Main text color: 153A51
+Primary blue: 3081B0
+Background color: F7F9FA
+
+Medbelle
+Background: EFF4F9
+BTN and Header: 1B4965
+
+Swyft
+Background: E7EEFD
+BTN and Header: 3E95CC
+
+XUND 
+Background: EEF3F9
+BTN and Header: 6FB5F6
+ ===========================================================================================*/ 
+
+ body{
+     text-align: center;
+     font-family: 'Roborto', sans-serif;
+     background-color: #F7F9FA;  
+     color: #153A51;
+     font-size: 115%;
+
+ }
+
+.hello {
+  
+    color: #8DC1E2;
+}
+
+
+
+h2{
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+p{
+    padding-right: 7%;
+    padding-left: 7%;
+    text-align: justify; 
+    padding-bottom: 1.5%;
+}
+
+q{
+    font-size: 170%;
+}
+.container-aboutme{
+    background-color: #FFFFFF;
+    margin-bottom: 2%;
+    margin-top: 5%; 
+    padding-top: 3%;
+    padding-bottom: 3%;   
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.container-Medbelle{
+    background-color: #EFF4F9;
+    margin-bottom: 2%;
+
+}
+
+.container-Swyft{
+    background-color: #ECF7FD;
+    margin-bottom: 2%;
+}
+
+.container-XUND {
+    background-color: #EEF3F9;
+    margin-bottom: 2%;
+}
+
+.icon1 {
+    margin-right:2%;
+}
+
+.Medbelle, .Swyft, .XUND {
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+    padding-left: 5%;
+  
+}
+
+.me:hover {
+    cursor: auto;
+    cursor:url(/CSS/Icons/unicorn.png), auto;
+
+}
+
+.cs1 {
+    background-color: #FFFFFF;
+    padding-top: 3%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 3%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+}
+.cs1-header{
+    color: #1B4965;
+}
+
+.cs2-header{
+    color:#137FB9;
+}
+
+.cs3-header {
+    color: #7EB8DD;
+}
+
+.cs1-body, .cs2-body {
+    text-align: left;
+    
+}
+
+.about {
+    color: #64AD99;
+}
+
+ul {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+li {
+    margin-top: 1%;
+}
+
+img {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+#artifacts {
+    text-align: center;
+
+}
