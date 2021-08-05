@@ -21,8 +21,6 @@ Background: EEF3F9
 BTN and Header: 6FB5F6
  ===========================================================================================*/ 
 
- @media (min-width: 768px) and (max-width: 1199.98px) { ... }
-
  body{
      text-align: center;
      font-family: 'Roborto', sans-serif;
