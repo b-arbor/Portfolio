@@ -92,7 +92,7 @@ q{
 
 .me:hover {
     cursor: auto;
-    cursor:url(./CSS/Icons/unicorn.png), auto;
+    cursor:url(/CSS/Icons/unicorn.png), auto;
 
 }
 
